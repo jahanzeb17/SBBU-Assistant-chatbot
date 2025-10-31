@@ -1,0 +1,17 @@
+langchain
+langgraph
+langchain-core
+langchain-community
+langchain-tavily
+langchain-groq
+langchain-openai
+langchain-google-genai
+langchain-text-splitters
+langchain-chroma
+python-dotenv
+fastapi
+uvicorn
+pydantic
+streamlit
+pypdf
+docx2txt
